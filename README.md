@@ -1,6 +1,6 @@
-1#Attendence System#
-2this **Attendence System** is perfect solution for attendence of Intisitute
+#Attendence System#
+this **Attendence System** is perfect solution for attendence of Intisitute
 
-5built on*Material Design*.
-6
+built on*Material Design*.
+
 7### powered by [TechNDevs](http://google.com)###
